@@ -1,9 +1,15 @@
 * {
     margin: 0;
-    padding: 0;
-    
+    padding: 0; 
 }
 
 form{
     background-color: rgb(105, 213, 255);
+}
+
+#escribeme{ 
+    background-color: blue;
+}
+#escribeme:hover{ 
+    background-color: orange;
 }
